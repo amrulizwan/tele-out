@@ -22,7 +22,7 @@ A Python script to leave all Telegram groups at once with per-group confirmation
 ### 1. Clone or Download Project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/amrulizwan/tele-out.git
 cd tele-out
 ```
 
